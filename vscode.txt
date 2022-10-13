@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/main.css">
+    <title>Sinf ishi</title>
+</head>
+<body>
+    <h1>Kurs Narxlari</h1>
+
+    <div id="bigbox">
+        <div class="box">
+            <h2>Frontend <br> development</h2>
+                <ul class="time">
+                    <li>
+                        <p>Dars soati</p>
+                        <b>2 soat</b>
+                    </li>
+    
+                    <li>
+                        <p>Davomiyligi</p>
+                        <b>3 oy</b>
+                    </li>
+    
+                </ul>
+    
+                <hr>
+                <p>Kurs narxi</p>
+                <h2><b>500 000 so`m</b></h2>
+        </div>
+        
+        <div class="box">
+            <h2>Backend <br> development</h2>
+                <ul class="time">
+                    <li>
+                        <p>Dars soati</p>
+                        <b>2 soat</b>
+                    </li>
+    
+                    <li>
+                        <p>Davomiyligi</p>
+                        <b>6 oy</b>
+                    </li>
+    
+                </ul>
+    
+                <hr>
+                <p>Kurs narxi</p>
+                <h2><b>600 000 so`m</b></h2>
+        </div>
+    
+        <div class="box">
+            <h2>Android <br> development</h2>
+                <ul class="time">
+                    <li>
+                        <p>Dars soati</p>
+                        <b>2 soat</b>
+                    </li>
+    
+                    <li>
+                        <p>Davomiyligi</p>
+                        <b>6 oy</b>
+                    </li>
+    
+                </ul>
+    
+                <hr>
+                <p>Kurs narxi</p>
+                <h2><b>600 000 so`m</b></h2>
+        </div>
+    </div>
+
+</body>
+</html>

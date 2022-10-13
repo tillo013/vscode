@@ -1,0 +1,11 @@
+.nav-bar{
+    display: flex;
+}
+.nav-link{
+    
+    display: inline-block;
+}
+.nav-box{
+    
+    text-decoration: none;
+}

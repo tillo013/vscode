@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    height: 105px;
+    background-color: rgb(168, 163, 163);
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 30px 120px;
+}
+a {
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.header-right{
+    display: flex;
+}
+.valyuta-list{
+    display: flex;
+}
+.header-left{
+    display: flex;
+
+}
+.search-border{
+    position: absolute;
+    width: 275px;
+    height: 45px;
+    left: 836px;
+    top: 30px;
+    padding: 15px;
+    background: #FFFFFF;
+    border-radius: 60px;
+}
+.join-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 20px;
+gap: 10px;
+
+position: absolute;
+width: 89px;
+height: 45px;
+left: 1231px;
+top: 30px;
+
+background: #7296EC;
+border-radius: 10px;
+}
+.lan-icon{
+    position: absolute;
+width: 70px;
+height: 36px;
+left: 1136px;
+top: 35px;
+
+background: #DCE6FF;
+border-radius: 39px;
+}
+.menu-list{
+    display: flex;
+    justify-content: space-around;
+    width: 120px;
+}
+.section{
+    margin: 30px 120px 50px 120px;
+}
+    

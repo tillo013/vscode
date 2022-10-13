@@ -1,0 +1,23 @@
+/* HEADER */
+.nav-bar{
+   margin: 24px 170px;
+   display: flex;
+   justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    
+}
+ul{
+    list-style-type: none;
+}
+.nav-list{
+    display: flex;
+    margin-left: 32px;
+    margin-left: 114px;
+}
+.qabul{
+    /* justify-content: end; */
+    /* border: 2px solid red; */
+
+}

@@ -1,0 +1,153 @@
+li{
+    display: inline-block;
+    list-style-type: none;
+    padding-left: 40px;
+    height: 23px;
+    opacity: 0.5;
+}
+.header-link{
+    text-decoration: none;
+    font-size: 18px;
+    color: #1f1534;
+    margin: 0px;
+    opacity: 0.5;
+}
+.header-active{
+    color: #000000;
+    opacity: 1;
+    text-decoration: none;
+}
+ul{
+    padding-left: 342px;
+}
+.head{
+    display: flex;
+    padding-left: 247px;
+    padding-top: 135px;
+    padding-right: 136px;
+   
+}
+body{
+    background-color:#CACBCF;
+}
+.case{
+    width: 1500px;
+    height: 5842px;
+    background-color: white;
+    
+}
+.title{
+    padding-top: 191px;
+    padding-left: 246px;
+}
+.something{
+    padding-left: 246px;
+    padding-top: 25px;
+}
+.consult{
+    padding-top: 45px;
+    padding-left: 246px;
+}
+.box{
+    display: flex;
+}
+.big-foto{
+    padding-left: 109px;
+    padding-top: 84px;
+}
+.title-2{
+    display: block;
+    margin-left: 695px;
+    padding-top: 113px;
+}
+.small-line{
+    width: 56px;
+    height: 2px;
+    background-color: #606060;
+    display: block;
+    margin-left: 732px;
+}
+.something-2{
+    text-align: center;
+}
+.search{
+    position: absolute;
+width: 350px;
+height: 354px;
+left: 240px;
+top: 1224px;
+
+background: #FFFFFF;
+/* drop shadow */
+
+box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+border-radius: 20px;
+}
+
+
+
+.pharmacy{
+        position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 624px;
+    top: 1224px;
+
+    background: #FFFFFF;
+    /* drop shadow */
+
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+.consultation{
+    position: absolute;
+width: 350px;
+height: 354px;
+left: 1010px;
+top: 1224px;
+
+background: #FFFFFF;
+/* drop shadow */
+
+box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+border-radius: 20px;
+}
+.details{
+    position: absolute;
+width: 350px;
+height: 354px;
+left: 240px;
+top: 1615px;
+
+background: #FFFFFF;
+/* drop shadow */
+
+box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+border-radius: 20px;
+}
+.aptec{
+    position: absolute;
+width: 350px;
+height: 354px;
+left: 624px;
+top: 1615px;
+
+background: #FFFFFF;
+/* drop shadow */
+
+box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+border-radius: 20px;
+}
+.info-list{
+    position: absolute;
+width: 350px;
+height: 354px;
+left: 1010px;
+top: 1615px;
+
+background: #FFFFFF;
+/* drop shadow */
+
+box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+border-radius: 20px;
+} 
