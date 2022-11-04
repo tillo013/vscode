@@ -1,0 +1,152 @@
+.head{
+    position: relative;
+    margin: 0;
+}
+.head__top{
+    display: flex;
+    padding: 11px 0 11px 58px;
+    width: 1130px;
+    margin-left: auto;
+}
+.head__nav{
+    position: relative;
+}
+.head__nav-inner{
+    max-width: 1440px;
+    // position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 65px 0 358px;
+    display: flex;
+    justify-content: space-between;
+}
+.head__top-item{
+    display: flex;
+    margin-right: 56px;
+}
+.head__top-item:last-child{
+    margin-right: 0;
+}
+.head__top-phone-span{
+    width: 4px;
+    height: 4px;
+    display: inline-block;
+    border: 2px solid #FFBD54;
+    background-color: #FFBD54;
+    border-radius: 50%;
+    margin: 6px 9px;
+
+}
+.head__top-title{
+    font-family: 'FuturaPT';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+    color: #333333;
+}
+.head__top-title:hover{
+    color: #FFBD54;
+}
+.head__top-title:active{
+    color: #333333;
+    opacity: 0.6;
+}
+.time{
+    margin-right: 17px;
+}
+.head__nav{
+    // position: absolute;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    // background-color: #ffffff;
+    // max-width: 1440px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.head__down{
+    display: flex;
+}
+.head__logo{
+    position: absolute;
+    left: 45px;
+    top: -19px;
+}
+.head__logo:hover{
+    opacity: 0.8;
+}
+.head__logo:active{
+    opacity: 0.6;
+}
+.head__down-item{
+    margin-right: 55px;
+}
+.head__down-title{
+    font-family: 'FuturaPT';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #333333;
+    border-bottom: 3px solid #F4FFAD transparent;
+}
+.head__down-title:hover{
+    border-bottom: 3px solid #F4FFAD;
+}
+.head__down-title:active{
+    border-bottom: 3px solid #F4FFAD;
+    opacity: 0.6;
+}
+.head__down-item:last-child{
+    margin-right: 0;
+}
+.head__questions{
+    display: block;
+    // width: 120px;
+    margin-left: auto;
+    font-family: 'FuturaPT';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #333333;
+
+    
+    &::before{
+        display: inline-block;
+        content: "";
+        width: 23px;
+        height: 23px;
+        background-image: url('../../../images/pet.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        vertical-align: middle;
+    }
+}
+.head__questions:hover{
+    border-bottom: 3px solid #F4FFAD;
+}
+.head__questions:active{
+    border-bottom: 3px solid #F4FFAD;
+    opacity: 0.6;
+}
+.head__top-img{
+    margin-right: 9px;
+    vertical-align: middle;
+}
+.head__spanjon{
+    position: absolute;
+    display: block;
+    background-color: #ffffff;
+    z-index: -1;
+    top: 39px;
+    width: 100%;
+    height: 61px;
+
+}
